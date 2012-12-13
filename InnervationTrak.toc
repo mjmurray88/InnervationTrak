@@ -1,0 +1,17 @@
+## Interface: 50100
+## Title: InnervationTrak
+## Author: Silberlicht
+## Version: 2.0
+## Notes: Tracks Spiritual Innervation on Garajal
+## SavedVariables: InnervationTrakDB2
+## OptionalDeps: Ace3
+
+Libs\LibStub\LibStub.lua
+Libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+Libs\AceAddon-3.0\AceAddon-3.0.xml
+Libs\AceConsole-3.0\AceConsole-3.0.xml
+Libs\AceDB-3.0\AceDB-3.0.xml
+Libs\AceTimer-3.0\AceTimer-3.0.xml
+Libs\AceEvent-3.0\AceEvent-3.0.xml
+
+Core.lua
